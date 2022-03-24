@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AshirUmar380
-- 👀 I’m interested in ai, gaming & web development
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Ashir Umar
+- 👀 I’m interested in AI, Gaming & Web Development
+- 🌱 I’m currently learning Python & Djano
 - 💞️ I’m looking to collaborate on my intrest
 - 📫 How to reach me ashirumar380@gmail.com, +92 302 4719951
 
